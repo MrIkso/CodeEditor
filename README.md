@@ -1,2 +1,2 @@
 # CodeEditor
-Code editor for android, based TexWarrior View.
+Code editor for android, Based TextWarrior View.
